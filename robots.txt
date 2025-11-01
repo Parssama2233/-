@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://newblog-1do.pages.dev/sitemap-index.xml
+Sitemap: https://test-abi.pages.dev/sitemap-index.xml
