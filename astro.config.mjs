@@ -30,7 +30,6 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
 	site: 'https://windholm.dpdns.org',
 
-	base: "/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
